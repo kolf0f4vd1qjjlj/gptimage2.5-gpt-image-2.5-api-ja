@@ -6,7 +6,7 @@
 
 > 従量課金、最低 1 ドルから、OpenAI 互換エンドポイント。 **flare@1K $0.0085; sunburst@1K $0.0085; flare@2K $0.014**
 
-**[模型页](https://apimart.ai/model) · [实时价格](https://apimart.ai/pricing) · [获取 API Key](https://apimart.ai/keys)**
+**[模型页](https://go.apimart.ai/k-cd847c) · [实时价格](https://go.apimart.ai/k-dab86d) · [获取 API Key](https://go.apimart.ai/k-8984c0)**
 
 ## 料金（快照 2026-09-24）
 
